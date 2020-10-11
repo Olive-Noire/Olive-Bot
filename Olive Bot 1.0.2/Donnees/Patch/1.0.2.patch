@@ -1,0 +1,34 @@
+-Olive Bot
+
+Ajout Majeur :
+    -Fichier pour les Fonctionss User indépendant
+
+Ajouts :
+    - Description, Codeur et Patch au lancement du bot
+    -/exit
+    -remplacement des "-" par "/" pour les commandes
+
+Correction Bug :
+    AUCUN
+
+Correction Bug à Venir :
+    - progressBar
+    - Message de Déconnexion quand le bot s'éteint
+    - /clear
+
+Ajouts Majeur à venir :
+    - API qui contrôlera le bot pour obtenir :
+        - le ping
+        - si il est connecté
+        - Installer d'autre bots à l'API
+
+    - Hebergement Indépendant avec RaspBerry PI || Arduino NodeJS
+    - Cryptage des Données
+    - Ajout d'un gestionnaire de Logs et de Fichiers
+
+Ajouts à venir :
+    AUCUN
+
+
+VERSION : 1.0.2
+-Olive_Noire
